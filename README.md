@@ -23,4 +23,4 @@ A simple web app that converts numbers (1–3999) into Roman numerals with a cle
 
 2. Open index.html in your browser.
 
-Made with ❤️ by Sadegh Dehyadgari
+ Made with ❤️ by Sadegh Dehyadgari
