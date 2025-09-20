@@ -1,5 +1,5 @@
 # Roman Numeral Converter
-
+This project was built to practice and demonstrate JavaScript skills learned through freeCodeCamp.
 A simple web app that converts numbers (1–3999) into Roman numerals with a clean UI.
 
 ## 🚀 Live Demo
